@@ -5,6 +5,7 @@ Acesta este primul studiu de caz de validare pentru KlaryoFlow AI.
 ## Status
 
 - tip proiect: demo gratuit
+- nume intern: Demo Prieten
 - scop: dovada de executie + studiu de caz
 - schimb: implementare gratuita in schimbul permisiunii de a folosi rezultatele public
 
@@ -12,11 +13,11 @@ Acesta este primul studiu de caz de validare pentru KlaryoFlow AI.
 
 | Camp | Valoare |
 |------|---------|
-| Firma | [DE COMPLETAT] |
-| Domeniu | [DE COMPLETAT] |
-| Nr. angajati | [DE COMPLETAT] |
-| Problema principala | [DE COMPLETAT] |
-| Data start | [DE COMPLETAT] |
+| Firma | Client pilot din reteaua personala - nume de confirmat |
+| Domeniu | de confirmat |
+| Nr. angajati | de confirmat |
+| Problema principala | de confirmat dupa audit |
+| Data start | Mai 2026 - planificat |
 
 ## Ce ar trebui sa includa
 

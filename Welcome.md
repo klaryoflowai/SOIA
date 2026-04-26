@@ -58,10 +58,8 @@ Foloseste acest vault ca sursa unica de adevar pentru:
 
 ## Ce Mai Trebuie Completat
 
-- numele fondatorului
-- emailul oficial si telefonul de business
-- identitatea finala a primului demo/client pilot
-- primul studiu de caz publicabil
+- identitatea finala a companiei pentru Demo Prieten
+- detaliile auditului pentru Demo Prieten
 
 ## Regula de lucru
 

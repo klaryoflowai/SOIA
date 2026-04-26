@@ -119,11 +119,11 @@ Clientul vede produsul prin doua suprafete:
 
 Aceste campuri trebuie completate dupa confirmare:
 
-- fondator: `[DE COMPLETAT]`
-- email business: `[DE COMPLETAT]`
-- telefon business: `[DE COMPLETAT]`
-- primul demo oficial: `[DE COMPLETAT]`
-- primul studiu de caz publicabil: `[DE COMPLETAT]`
+- fondator: `Iurie Timofte`
+- email business: `klaryoflowai@outlook.com`
+- telefon business: `+373 69102020`
+- primul demo oficial: `Demo Prieten`
+- primul studiu de caz publicabil: `Demo Prieten`
 
 ## Note utile
 

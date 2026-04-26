@@ -46,9 +46,8 @@ Sursele brute sunt pastrate acum in:
 
 ## Lucruri inca de completat
 
-- numele fondatorului
-- email si telefon oficial
-- clientul/demo-ul oficial
+- identitatea companiei pentru Demo Prieten
+- detaliile de audit pentru Demo Prieten
 - eventualele exemple reale de KPI pe industrie
 - forma finala a contractului
 
