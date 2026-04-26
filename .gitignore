@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Secrets / local env
+.env
+.env.*
+!.env.example
+
+# Editor / temp files
+*.bak
+*.swp
+*.swo
+*.tmp
+
+# Obsidian local state
+.obsidian/cache/
+.obsidian/workspace.json
+.obsidian/workspaces.json
+.obsidian/hotkeys.json
+.obsidian/plugins/
+
+# Local scratch / exports
+tmp/
+temp/
+exports/
