@@ -13,8 +13,13 @@ Acest vault este contextul permanent al proiectului **SOIA** si al agentiei **Kl
 - [04_Operare/SOP-Audit-Gratuit.md](04_Operare/SOP-Audit-Gratuit.md) - procesul comercial de audit
 - [05_Clienti/Client-Template/Fisa-Client.md](05_Clienti/Client-Template/Fisa-Client.md) - template standard de client
 - [06_Templates/Oferta-Client.md](06_Templates/Oferta-Client.md) - oferta reutilizabila
-- [98_Imported/README.md](98_Imported/README.md) - context legacy pastrat pentru trasabilitate
 - [99_Surse/Surse-si-Asumptii.md](99_Surse/Surse-si-Asumptii.md) - surse, asumptii si completari
+
+## Arhiva si Trasabilitate
+
+- [99_Surse/Surse-si-Asumptii.md](99_Surse/Surse-si-Asumptii.md) documenteaza sursele de lucru si ipotezele facute.
+- [98_Imported/README.md](98_Imported/README.md) explica rolul arhivei legacy.
+- [98_Imported/Migration-Map.md](98_Imported/Migration-Map.md) arata ce a fost migrat in structura activa.
 
 ## Ce Contine
 
@@ -49,7 +54,7 @@ Este gandit pentru 3 moduri de folosire:
 - `04_Operare` - SOP-uri si mod de lucru
 - `05_Clienti` - template-uri si studii de caz
 - `06_Templates` - documente gata de reutilizat
-- `98_Imported` - context legacy si materiale brute
+- `98_Imported` - arhiva legacy si materiale brute
 - `99_Surse` - surse, asumptii si trasabilitate
 
 ## GitHub
@@ -64,6 +69,7 @@ Acest vault este pregatit pentru un repo separat, cu urmatoarele reguli:
 - `.obsidian` ramane partial versionat pentru preferintele comune
 - fisierele locale volatile, exporturile temporare si `.env*` se ignora prin `.gitignore`
 - `98_Imported` ramane in repo doar ca arhiva de context, nu ca sursa activa de lucru
+- arhiva principala curenta este `98_Imported/klaryoflow-context-archive`
 
 ## Originea Materialelor
 

@@ -23,7 +23,6 @@ Foloseste acest vault ca sursa unica de adevar pentru:
 - [[04_Operare/SOP-Audit-Gratuit]]
 - [[05_Clienti/Client-Template/Fisa-Client]]
 - [[06_Templates/Oferta-Client]]
-- [[98_Imported/README]]
 - [[99_Surse/Surse-si-Asumptii]]
 
 ## AI Context
@@ -31,6 +30,12 @@ Foloseste acest vault ca sursa unica de adevar pentru:
 - [[AGENTS]] este fisierul principal pentru Codex.
 - [[CLAUDE]] este fisierul principal pentru Claude.
 - Cele doua trebuie sa ramana sincronizate dupa orice schimbare majora de strategie sau oferta.
+
+## Arhiva si Trasabilitate
+
+- [[99_Surse/Surse-si-Asumptii]] tine sursele si asumptiile de lucru.
+- [[98_Imported/README]] explica arhiva legacy.
+- [[98_Imported/Migration-Map]] arata unde a fost absorbit continutul importat.
 
 ## Structura Vault
 
@@ -40,7 +45,7 @@ Foloseste acest vault ca sursa unica de adevar pentru:
 - `04_Operare` - SOP-uri si mod de lucru
 - `05_Clienti` - fise de client si studii de caz
 - `06_Templates` - documente gata de folosit
-- `98_Imported` - context legacy si materiale brute
+- `98_Imported` - arhiva legacy si surse brute
 - `99_Surse` - surse, asumptii, lucruri de completat
 
 ## Stare Curenta
@@ -56,7 +61,7 @@ Foloseste acest vault ca sursa unica de adevar pentru:
 - numele fondatorului
 - emailul oficial si telefonul de business
 - identitatea finala a primului demo/client pilot
-- primul commit si primul push in repo-ul GitHub `klaryoflowai/SOIA`
+- primul studiu de caz publicabil
 
 ## Regula de lucru
 

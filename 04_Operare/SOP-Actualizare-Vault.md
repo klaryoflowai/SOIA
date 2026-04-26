@@ -40,6 +40,7 @@ Actualizeaza:
 - [[Welcome]]
 - `.gitignore`, daca apar fisiere locale noi care nu trebuie versionate
 - folderul `98_Imported`, daca un material legacy a fost deja absorbit in structura principala
+- [[98_Imported/Migration-Map]], daca se schimba relatia dintre arhiva si notele active
 
 ## Dupa fiecare material nou
 

@@ -4,6 +4,10 @@
 
 ### Context existent
 
+Sursele brute sunt pastrate acum in:
+
+- `98_Imported/klaryoflow-context-archive`
+
 - `klaryoflow-context/CLAUDE.md`
 - `klaryoflow-context/README.md`
 - `klaryoflow-context/00_AGENCY/despre-klaryoflow.md`
@@ -64,13 +68,14 @@ Directia curenta este clara:
 
 In varianta curenta, contextul vechi este importat in interiorul vault-ului, in:
 
-- `98_Imported/klaryoflow-context`
+- `98_Imported/klaryoflow-context-archive`
 
 Astfel:
 
 - vault-ul nou ramane structurat si curat
 - sursa veche ramane accesibila
 - sursa legacy poate fi consultata fara sa afecteze structura principala
+- maparea dintre sursa veche si notele active este documentata in `98_Imported/Migration-Map.md`
 
 ## Recomandare
 

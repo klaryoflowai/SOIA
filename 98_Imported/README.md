@@ -1,4 +1,4 @@
-# Imported Context
+# Arhiva Importata
 
 Acest folder pastreaza materiale importate ca sursa bruta sau legacy, pentru a nu pierde context util in timpul reorganizarii vault-ului.
 
@@ -24,7 +24,9 @@ Ele sunt:
 - extragem ideile utile in structura principala a vault-ului
 - pastram acest folder pentru trasabilitate si context istoric
 
-Structura principala de lucru ramane:
+## Ce folosim azi
+
+Pentru lucru curent folosim structura principala:
 
 - `01_Brand`
 - `02_Produs`
@@ -33,8 +35,13 @@ Structura principala de lucru ramane:
 - `05_Clienti`
 - `06_Templates`
 
+Pentru istoric si verificare folosim:
+
+- `98_Imported/klaryoflow-context-archive`
+- `98_Imported/Migration-Map.md`
+
 ## Import curent
 
 Legacy context-ul initial este asteptat in:
 
-- `98_Imported/klaryoflow-context`
+- `98_Imported/klaryoflow-context-archive`
